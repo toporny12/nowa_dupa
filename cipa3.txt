@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 asdfasdf
 
 ale tu ojest plka z ubhg
+=======
+hah hah dupa
+]sadf
+af
+dsf
+asf
+
+dfs
+>>>>>>> 93ec90da474fb675b924300570db24cd206b7093
