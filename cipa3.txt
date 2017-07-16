@@ -1,1 +1,2 @@
-zmiana z dupy
+def grze(a,b):
+	return a
