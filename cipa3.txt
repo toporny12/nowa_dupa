@@ -1,2 +1,5 @@
 def grze(a,b):
 	return a
+
+de dupa(a)
+	regurn a
